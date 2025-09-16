@@ -1,0 +1,187 @@
+---
+title: Experiences and Approaches
+subtitle: Maths and statistics support for neurodivergent students
+author: 
+  - name: "Emma Cliffe"
+    affiliations: "Universtiy of Bath"
+format: 
+  revealjs:
+    theme: default
+    logo: MASH University of Bath.png
+    html-math-method: mathjax
+  beamer:
+    theme: default
+    logo: MASH University of Bath - tiny.png
+    slide-level: 3
+  html: 
+    output-file: index.html
+    toc: true
+    include-after-body: 
+      text: | 
+        <footer class="footer"><img src="MASH University of Bath.png" alt="Mathematics Resources Centre, MASH, providing Maths and Statistics Help, at the University of Bath" height="90" align="right"></footer>
+editor: visual
+---
+
+# Plan
+
+-   Some experience students might have
+-   Some approaches I've used
+
+# Some experiences students might have
+
+## Joe, an engineer
+
+> "I'm having real problems with maths, the other modules have good workbooks"
+
+* Verbal comprehension: superior
+* Perceptual reasoning: high average
+* Working memory: low average (significantly weak)
+* Processing speed: average range (relatively weak)
+* Word recognition: below average (significantly weak)
+* Writing speed: well below average (significantly weak)
+* Writing untidy and difficult to read
+
+## Mary, a mathematician
+
+> "I feel so stupid, maths is what I have always been good at and now I can't understand any of it."
+
+* Verbal comprehension: superior
+* Perceptual reasoning: high average
+* Working memory: superior
+* Processing speed: average range (relatively weak)
+* Word recognition: average range (significantly weak)
+* Writing speed: average range (relatively weak)
+* Writing generally legible and coherent 
+
+## Ali, a chemist
+
+> "I have a student I don't know how to help ... this involves seeing molecules in 3D and determining their symmetry. She finds this particularly difficult and although we made some progress, she became rather distressed through frustration"
+
+* Working memory and processing speed commensurate with her verbal comprehension and perceptual processing skills
+* No reading difficulties
+* Significantly weak fine motor control
+* Difficulties with co-ordination and spatial awareness
+
+## Nat, a sports scientist
+
+> "She is having significant problems with her maths module".
+
+Dyscalculia screener suggested difficulties with:
+
+* Comparing relative sizes of numbers (word, symbol and visual-spatial)
+* Concepts and inferences about operations on numbers or relationships between them
+* Understanding time 
+
+# Some approaches I've used
+
+## In the moment
+
+* Multisensory approach with consistent colour and images
+* Consistently link symbol, word and process
+* Break problems down into small, manageable steps
+* Read maths aloud, 'think' aloud yourself
+* Encourage thinking aloud, act as a scribe if needed
+* Use visualisations, concrete examples and concrete objects
+* Use flow charts connected to a concrete example
+* Use concept maps to highlight relationships and connections between the abstract and the concrete
+
+## In the moment cont.
+
+* Encourage student to use multisensory approaches
+* Encourage overlearning e.g. index cards, electronic tests
+* Encourage metacognition, reflection on problem solving
+* Bring working memory overload to the student's awareness
+* Find approaches which reduce working memory load
+* Block out information not in use, break up large sections of text, ensure student can change font, colour, have content read aloud if it helps
+* Experiment with different ways to capture thought process and to write up work
+
+## Building strategies
+
+* Notetaking for mathematics, structured annotation
+* Using expanding symbol range and vocabulary
+* Building rich accurate concept images, example use
+* Connecting and mapping concepts, visualisation
+* Active reading for mathematics, self-explanation
+* Problem classification, structured problem solving
+* Developing an internal monitor, raising metacognition
+* Build approaches for processes e.g. diagrams, overlearning
+* Mathematical writing skills, as appropriate to level...
+
+## Concrete: Manipulatives
+
+::: {layout="[[25,75]]" layout-valign="center"}
+![](hexes.jpg){width="20%" fig-alt="A hexagon made out of a magnetic building tool and then transformed into boat configuration"}
+
+![](lowtech.jpg){width="80%" fig-alt="A collection of low technology manipulatives for maths support"}
+:::
+
+## Concrete: Visualisation
+
+<iframe scrolling="no" title="Monoclinic system" src="https://www.geogebra.org/material/iframe/id/pVrnRnvN/width/886/height/572/border/888888/smb/false/stb/true/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" width="886px" height="572px" style="border:0px;" data-external="1">
+
+</iframe>
+\includegraphics{geogebra.png}
+
+
+## Processing: Flexible documents
+
+![](clearprint.png){fig-alt="Mathematical text in clear print"}
+
+![](webformat.png){width="80%" fit-alt="Mathematical text in web format"}
+
+## Processing: Structured colour
+
+$$
+\definecolor{energy}{RGB}{114,0,172}
+\definecolor{freq}{RGB}{45,177,93}
+\definecolor{spin}{RGB}{251,0,29}
+\definecolor{signal}{RGB}{18,110,213}
+\definecolor{circle}{RGB}{217,86,16}
+\definecolor{average}{RGB}{203,23,206}
+\color{energy} X_{\color{freq} k} \color{black} =
+\color{average} \frac{1}{N} \sum_{n=0}^{N-1}
+\color{signal}x_n \color{spin}
+e^{\mathrm{i} \color{circle} 2\pi \color{freq}k
+\color{average} \frac{n}{N}}
+$$
+
+\definecolor{energy}{RGB}{114,0,172}
+\definecolor{freq}{RGB}{45,177,93}
+\definecolor{spin}{RGB}{251,0,29}
+\definecolor{signal}{RGB}{18,110,213}
+\definecolor{circle}{RGB}{217,86,16}
+\definecolor{average}{RGB}{203,23,206}
+
+To find <font color="#7200AC">\color{energy}the energy</font> <font color="2DB15D">\color{freq}at a particular frequency</font>, <font color="#FB001D">\color{spin}spin</font> <font color="#126ED5">\color{signal}your signal</font> <font color="#D04400">\color{circle}around a circle</font> <font color="2DB15D">\color{freq}at that frequency</font>\color{black}, and <font color="#CB17CE">\color{average}average a bunch of points along that path</font>\color{black}.[^1]
+
+[^1]: [Specific example due to Stuart Riffle](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
+
+## Word recognition: Concept collation
+
+![](card1.jpg){fig-alt="A handwritten card capturing a concept image from analysis"}
+
+
+## Sequencing: Flow diagrams
+
+<iframe scrolling="no" title src="https://www.geogebra.org/material/iframe/id/lYWtERPU/width/800/height/550/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="800px" height="550px" style="border:0px;" data-external="1">
+
+</iframe>
+
+\includegraphics{flowchart.png}
+
+## Structure: Concept mapping
+
+![](conceptmap-hand.jpg){fig-alt="A concept map for analysis one section one"}
+
+## Overlearning: endless examples!
+
+![](numbas.png){fig-alt="A question on the Numbas maths e-learning platform"}
+
+
+## Writing: Effective equation entry
+
+{{< video http://www.mathcentre.ac.uk/bathmash/Word/Writing%20equations%20in%20Word.mp4  >}}
+
+# Thanks!
+
+Emma Cliffe, <E.H.Cliffe@bath.ac.uk>
