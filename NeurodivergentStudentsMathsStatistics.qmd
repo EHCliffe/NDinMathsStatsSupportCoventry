@@ -117,7 +117,7 @@ Dyscalculia screener suggested difficulties with:
 
 ## Concrete: Visualisation
 
-<iframe scrolling="no" title="Monoclinic system" src="https://www.geogebra.org/material/iframe/id/pVrnRnvN/width/886/height/572/border/888888/smb/false/stb/true/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" width="886px" height="572px" style="border:0px;" data-external="1">
+<iframe scrolling="no" title="Monoclinic system" src="https://www.geogebra.org/material/iframe/id/pVrnRnvN/width/800/height/572/border/888888/smb/false/stb/true/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" width="800px" height="572px" style="border:0px;" data-external="1">
 
 </iframe>
 \includegraphics{geogebra.png}
@@ -127,7 +127,7 @@ Dyscalculia screener suggested difficulties with:
 
 ![](clearprint.png){fig-alt="Mathematical text in clear print"}
 
-![](webformat.png){width="80%" fit-alt="Mathematical text in web format"}
+![](webformat.png){width="80%" fig-alt="Mathematical text in web format"}
 
 ## Processing: Structured colour
 
@@ -152,9 +152,9 @@ $$
 \definecolor{circle}{RGB}{217,86,16}
 \definecolor{average}{RGB}{203,23,206}
 
-To find <font color="#7200AC">\color{energy}the energy</font> <font color="2DB15D">\color{freq}at a particular frequency</font>, <font color="#FB001D">\color{spin}spin</font> <font color="#126ED5">\color{signal}your signal</font> <font color="#D04400">\color{circle}around a circle</font> <font color="2DB15D">\color{freq}at that frequency</font>\color{black}, and <font color="#CB17CE">\color{average}average a bunch of points along that path</font>\color{black}.[^1]
+To find <font color="#7200AC">\color{energy}the energy</font> <font color="218746">\color{freq}at a particular frequency</font>, <font color="#ee001b">\color{spin}spin</font> <font color="#126ED5">\color{signal}your signal</font> <font color="#D04400">\color{circle}around a circle</font> <font color="218746">\color{freq}at that frequency</font>\color{black}, and <font color="#CB17CE">\color{average}average a bunch of points along that path</font>\color{black}.[^1]
 
-[^1]: [Specific example due to Stuart Riffle](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
+[^1]: [<span style="color: DarkBlue"><u>Specific example due to Stuart Riffle</u></span>](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
 
 ## Word recognition: Concept collation
 
@@ -163,7 +163,7 @@ To find <font color="#7200AC">\color{energy}the energy</font> <font color="2DB15
 
 ## Sequencing: Flow diagrams
 
-<iframe scrolling="no" title src="https://www.geogebra.org/material/iframe/id/lYWtERPU/width/800/height/550/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="800px" height="550px" style="border:0px;" data-external="1">
+<iframe scrolling="no" title="Flow chart" src="https://www.geogebra.org/material/iframe/id/lYWtERPU/width/800/height/550/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="800px" height="550px" style="border:0px;" data-external="1">
 
 </iframe>
 
@@ -180,7 +180,9 @@ To find <font color="#7200AC">\color{energy}the energy</font> <font color="2DB15
 
 ## Writing: Effective equation entry
 
-{{< video http://www.mathcentre.ac.uk/bathmash/Word/Writing%20equations%20in%20Word.mp4  >}}
+{{< video http://www.mathcentre.ac.uk/bathmash/Word/Writing%20equations%20in%20Word.mp4 width="800%" >}}
+
+Associated transcript, template and reference document at: <http://www.mathcentre.ac.uk/bathmash/Word/>
 
 # Thanks!
 
